@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @81936269
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-81936269/81936269 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-👋 Oi, eu sou Eduardo
+- 👀 Estou interessado em progamação
+- 🌱 Estou aprendendo Git
+- 💞️ Estou procurando colaborar em uma empresa
+- 📫 Como chegar até mim pelo Linkedin: https://www.linkedin.com/in/eduardo-araujo-da-silva-0a9521107/
