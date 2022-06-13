@@ -1,6 +1,1 @@
--👋 Oi, eu sou Eduardo
-- 👀 Estou interessado em progamação
-- 🌱 Estou aprendendo Git
-- 💞️ Estou procurando colaborar em uma empresa
-- 📫 Como chegar até mim pelo Linkedin: https://www.linkedin.com/in/eduardo-araujo-da-silva-0a9521107/
-- 📫 E-mail: eduardoaraujo56@hotmail.com
+
